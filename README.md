@@ -1,6 +1,10 @@
 <div class="motion-grid">
 
   <div class="motion-item">
+    <img src="portfolioClip_15.gif" alt="Description of Project 1">
+  </div>
+  
+  <div class="motion-item">
     <img src="portfolioClip_10.gif" alt="Description of Project 1">
   </div>
 
@@ -57,6 +61,7 @@
   </div>
   
   </div>
+
 
 
 
