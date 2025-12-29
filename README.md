@@ -11,5 +11,42 @@
   <div class="motion-item">
     <img src="portfolioClip_03.gif" alt="Description of Project 3">
   </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_04.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_05.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_06.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_07.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_08.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_09.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_10.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_11.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_12.gif" alt="Description of Project 1">
+  </div>
   
   </div>
+
