@@ -11,3 +11,23 @@
 .main-content {
   max-width: 1200px;
 }
+
+/* Motion Grid Styles */
+.motion-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* creates flexible columns */
+  gap: 20px; /* space between images */
+  margin-top: 20px;
+}
+
+.motion-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* adds rounded corners */
+  box-shadow: 0 4px 6px rgba(0,0, 0, 0.3); /*adds drop shadow*/
+  transition: transform 0.2s;
+}
+
+.motion-item img:hover {
+  transform: scale(1.02);
+}
