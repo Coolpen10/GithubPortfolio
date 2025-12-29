@@ -29,6 +29,14 @@
   </div>
 
   <div class="motion-item">
+    <img src="portfolioClip_17.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
+    <img src="portfolioClip_18.gif" alt="Description of Project 1">
+  </div>
+
+  <div class="motion-item">
     <img src="portfolioClip_06.gif" alt="Description of Project 1">
   </div>
 
@@ -65,6 +73,7 @@
   </div>
   
   </div>
+
 
 
 
