@@ -9,25 +9,29 @@
 }
 
 .main-content {
-  max-width: 1200px;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem;
 }
 
 /* Motion Grid Styles */
 .motion-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* creates flexible columns */
-  gap: 20px; /* space between images */
-  margin-top: 20px;
+  grid-template-columns: 1fr 1fr 1fr; /* creates flexible columns */
+  gap: 30px; /* space between images */
+  margin-top: 40px;
 }
 
 .motion-item img {
   width: 100%;
   height: auto;
+  display: block;
   border-radius: 8px; /* adds rounded corners */
   box-shadow: 0 4px 6px rgba(0,0, 0, 0.3); /*adds drop shadow*/
-  transition: transform 0.2s;
+  transition: transform 0.3s;
 }
 
 .motion-item img:hover {
-  transform: scale(1.02);
+  transform: scale(1.04);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.4);
 }
