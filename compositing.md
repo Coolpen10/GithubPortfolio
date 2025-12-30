@@ -13,7 +13,7 @@
     <div class="featured-container">
       <div class="featured-text">
         <h2>Do No Harm (The Opioid Trilogy | PBS)</h2>
-        <p>The story of Raina, who spend 17 years battling heroin addiction before finding her healing path through alternative approaches.</p>
+        <p>The story of Raina, who spent 17 years battling heroin addiction before finding her healing path through alternative approaches.</p>
         <p><strong>Role:</strong> Lead Compositor.</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
