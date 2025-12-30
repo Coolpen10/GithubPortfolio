@@ -109,50 +109,79 @@
 /* Carousel Styling */
 .carousel-container {
   position: relative;
-  max-width: 100%;
+  /* Match the width of your main content so it aligns nicely */
+  max-width: 1400px; 
   margin: auto;
-  overflow: hidden; /* Hides anything sliding out of view */
+  /* IMPORTANT: We removed 'overflow: hidden' here so arrows can sit outside */
 }
 
 .carousel-slide {
-  display: none; /* Hidden by default */
-  animation: fadeEffect 0.5s; /* Smooth fade when switching */
+  display: none;
+  animation: fadeEffect 0.5s;
 }
 
-/* This class turns the slide ON */
 .active-slide {
   display: block;
 }
 
-/* The Arrows */
+/* The Arrows - UPDATED */
 .prev, .next {
   cursor: pointer;
   position: absolute;
   top: 50%;
-  width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white; /* Arrow color */
+  
+  /* NEW STYLE: Cleaner arrows, less blocky */
+  color: #999; /* subtle grey initially */
   font-weight: bold;
-  font-size: 24px;
+  font-size: 40px; /* Larger, thinner arrows */
   transition: 0.3s ease;
-  border-radius: 0 3px 3px 0;
-  background-color: rgba(0,0,0,0.3); /* Semi-transparent background */
+  background-color: transparent; /* No background box by default */
   user-select: none;
+  z-index: 10; /* Ensures they sit on top of everything */
 }
 
-/* Position the "Next" arrow to the right */
+/* Position the "Previous" arrow outside to the left */
+.prev {
+  left: -70px; /* Pushes it 70px out to the left */
+}
+
+/* Position the "Next" arrow outside to the right */
 .next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
+  right: -70px; /* Pushes it 70px out to the right */
 }
 
+/* Hover effects */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  color: #159957; /* Cayman green on hover */
+  /* Optional: add a subtle background back on hover if you want */
+  /* background-color: rgba(0,0,0,0.05); */
+  /* border-radius: 50%; */
 }
 
-/* Fade Animation */
+/* MOBILE FIX: On small screens, tuck them back inside so they don't fall off screen */
+@media screen and (max-width: 1100px) {
+  .prev {
+    left: 0;
+    background-color: rgba(255,255,255,0.8); /* Add light background for contrast over video */
+    color: black;
+  }
+  .next {
+    right: 0;
+    background-color: rgba(255,255,255,0.8);
+    color: black;
+  }
+}
+
 @keyframes fadeEffect {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+/*safety net for the motion grid on phones*/
+@media screen and (max-width: 768px) {
+  .motion-grid {
+    grid-template-columns: 1fr;
+  }
 }
