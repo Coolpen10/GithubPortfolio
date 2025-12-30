@@ -210,3 +210,13 @@
   width: 100%;
   height: 100%;
 }
+
+
+body {
+  /* A smooth grey-to-white gradient */
+  background: linear-gradient(180deg, #f5f7fa 0%, #c3cfe2 100%);
+  
+  /* This ensures the gradient stretches the whole page and doesn't repeat */
+  min-height: 100vh;
+  background-attachment: fixed;
+}
