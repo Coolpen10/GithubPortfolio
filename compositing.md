@@ -21,6 +21,17 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/8qQw2yy9p20?si=eg8-K_5_1XqCufUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
+    <div class="motion-grid">
+
+  <div class="motion-item"><img src="compClip_B1.gif"></div>
+  <div class="motion-item"><img src="compClip_B2.gif"></div>
+  <div class="motion-item"><img src="compClip_B3.gif"></div>
+  <div class="motion-item"><img src="compClip_B4.gif"></div>
+  <div class="motion-item"><img src="compClip_B5.gif"></div>
+  <div class="motion-item"><img src="compClip_B6.gif"></div>
+  <div class="motion-item"><img src="compClip_B7.gif"></div>
+  <div class="motion-item"><img src="compClip_B8.gif"></div>
+  <div class="motion-item"><img src="compClip_B9.gif"></div>
   </div>
 
   <div class="carousel-slide">
