@@ -11,8 +11,9 @@
   <div class="carousel-slide active-slide">
     <div class="featured-container">
       <div class="featured-text">
-        <h2>Do No Harm (The First One)</h2>
-        <p>This is the description for your first highlighted project.</p>
+        <h2>Do No Harm (The Opioid Trilogy | PBS)</h2>
+        <p>The story of Raina, who spend 17 years battling heroin addiction before finding her healing path through alternative approaches.</p>
+        <p><strong>Role:</strong> Lead Compositor.</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
       <div class="featured-video">
@@ -24,12 +25,27 @@
   <div class="carousel-slide">
     <div class="featured-container">
       <div class="featured-text">
-        <h2>Coming Home (Lead Compositor)</h2>
+        <h2>Coming Home (The Opioid Trilogy | PBS)</h2>
         <p>Compositing together line work and textures to tell the story of a recovering addict who aims to help others find their way.</p>
+        <p><strong>Role:</strong> Lead Compositor.</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
       <div class="featured-video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JZYJ_1wpqNQ?si=KFd-bjF4DCCSqyg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="carousel-slide">
+    <div class="featured-container">
+      <div class="featured-text">
+        <h2>Addiction Animated (The Opioid Trilogy | PBS)</h2>
+        <p>The first entry in The Opioid Trilogy, highlighting phone calls between the filmmaker and her brother as he battles against his addiction.</p>
+        <p><strong>Role:</strong> Lead Compositor.</p>
+        <p><strong>Software:</strong> After Effects</p>
+      </div>
+      <div class="featured-video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LBC7FfG1hc0?si=VmHgtdKjbmFOx1ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -39,8 +55,6 @@
 
 </div>
 <hr>
-
-</div>
 
 
 
