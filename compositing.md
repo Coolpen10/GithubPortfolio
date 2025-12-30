@@ -35,7 +35,19 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JZYJ_1wpqNQ?si=KFd-bjF4DCCSqyg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
-  </div>
+    <div class="motion-grid">
+
+  <div class="motion-item"><img src="compClip_01.gif"></div>
+  <div class="motion-item"><img src="compClip_02.gif"></div>
+  <div class="motion-item"><img src="compClip_03.gif"></div>
+  <div class="motion-item"><img src="compClip_04.gif"></div>
+  <div class="motion-item"><img src="compClip_05.gif"></div>
+  <div class="motion-item"><img src="compClip_06.gif"></div>
+  <div class="motion-item"><img src="compClip_07.gif"></div>
+  <div class="motion-item"><img src="compClip_08.gif"></div>
+  <div class="motion-item"><img src="compClip_09.gif"></div>
+
+</div>
 
   <div class="carousel-slide">
     <div class="featured-container">
@@ -61,45 +73,7 @@
 
 ## 2D compositing work
 
-<div class="motion-grid">
 
-  <div class="motion-item">
-    <img src="compClip_01.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_02.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_03.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_04.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_05.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_06.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_07.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_08.gif" alt="Description of Project 1">
-  </div>
-
-  <div class="motion-item">
-    <img src="compClip_09.gif" alt="Description of Project 1">
-  </div>
-
-</div>
 
 ## Javascript
 <script>
