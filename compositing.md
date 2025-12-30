@@ -34,7 +34,7 @@
   <div class="motion-item"><img src="compClip_B9.gif"></div>
   </div>
 
-  <div class="carousel-slide">
+  </div><div class="carousel-slide">
     <div class="featured-container">
       <div class="featured-text">
         <h2>Coming Home (The Opioid Trilogy | PBS)</h2>
@@ -60,7 +60,7 @@
 
 </div>
 
-  <div class="carousel-slide">
+  </div><div class="carousel-slide">
     <div class="featured-container">
       <div class="featured-text">
         <h2>Addiction Animated (The Opioid Trilogy | PBS)</h2>
