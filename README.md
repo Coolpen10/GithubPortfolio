@@ -7,7 +7,18 @@
 </nav>
 <hr>
 
-Hi, I'm Bryce. Welcome to my portfolio. Select a category above to view my work.
+<div class="bio-container">
+  
+  <div class="bio-intro">
+    Hi, I'm Bryce Hagan.
+  </div>
+  
+  <div class="bio-body">
+    I am a Motion Graphics Artist and Compositor based in Crozet, Virginia.<br>
+    I specialize in blending 2D animation with VFX to communicate with massive audiences in a way that's unique and stylish.
+  </div>
+
+</div>
 
 <div class="home-reel-container">
   <h3>2025 Motion Showreel</h3>
@@ -17,5 +28,6 @@ Hi, I'm Bryce. Welcome to my portfolio. Select a category above to view my work.
   </div>
   
 </div>
+
 
 
