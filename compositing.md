@@ -14,7 +14,7 @@
       <div class="featured-text">
         <h2>Do No Harm (The Opioid Trilogy | PBS)</h2>
         <p>The story of Raina, who spent 17 years battling heroin addiction before finding her healing path through alternative approaches.</p>
-        <p><strong>Role:</strong> Lead Compositor.</p>
+        <p><strong>Role:</strong> Lead Compositor</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
       <div class="featured-video">
@@ -28,7 +28,7 @@
       <div class="featured-text">
         <h2>Coming Home (The Opioid Trilogy | PBS)</h2>
         <p>Compositing together line work and textures to tell the story of a recovering addict who aims to help others find their way.</p>
-        <p><strong>Role:</strong> Lead Compositor.</p>
+        <p><strong>Role:</strong> Lead Compositor</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
       <div class="featured-video">
@@ -42,7 +42,7 @@
       <div class="featured-text">
         <h2>Addiction Animated (The Opioid Trilogy | PBS)</h2>
         <p>The first entry in The Opioid Trilogy, highlighting phone calls between the filmmaker and her brother as he battles against his addiction.</p>
-        <p><strong>Role:</strong> Lead Compositor.</p>
+        <p><strong>Role:</strong> Lead Compositor</p>
         <p><strong>Software:</strong> After Effects</p>
       </div>
       <div class="featured-video">
