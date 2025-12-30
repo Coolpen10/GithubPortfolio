@@ -185,3 +185,28 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Homepage Showreel Styles */
+.home-reel-container {
+  margin-top: 50px;
+  text-align: center; /* Centers the "2024 Motion Showreel" title */
+}
+
+.video-wrapper {
+  position: relative;
+  width: 100%; /* Spans full width of the container */
+  padding-bottom: 56.25%; /* MAGIC NUMBER: This creates a 16:9 Aspect Ratio (9/16 = 0.5625) */
+  height: 0;
+  background-color: #000; /* Black background while loading */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5); /* Big cinematic shadow */
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
