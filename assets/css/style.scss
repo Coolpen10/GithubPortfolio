@@ -63,3 +63,45 @@
   background-color: rgba(21,153, 87, 0.05);
   text-decoration: none;
 }
+
+
+/* Featured Project Layout (Text Left | Video Right) */
+.featured-container {
+  display: flex; /* Puts items side-by-side */
+  align-items: center; /* Vertically centers the text relative to video */
+  gap: 40px; /* Space between text and video */
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.featured-text {
+  flex: 1; /* Takes up 1 "share" of the space */
+  font-size: 1.1rem;
+}
+
+.featured-video {
+  flex: 1.5; /* Takes up 1.5 "shares" (making video slightly wider than text) */
+}
+
+/* Make the video embed responsive so it shrinks on small screens */
+.featured-video iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9; /* Keeps the video rectangle correct */
+  height: auto; 
+}
+
+/* MOBILE VIEW: Stack them */
+@media screen and (max-width: 900px) {
+  .featured-container {
+    flex-direction: column-reverse; /* Puts text UNDER video on phones */
+    gap: 20px;
+  }
+  
+  .featured-text {
+    width: 100%;
+  }
+  
+  .featured-video {
+    width: 100%;
+  }
+}
