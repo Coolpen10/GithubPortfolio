@@ -5,6 +5,27 @@
 </nav>
 <hr>
 
+<div class="featured-container">
+  
+  <div class="featured-text">
+    <h2>Coming Home</h2>
+    <p>
+      Compositing together line work and textures to tell the story of a recovering addict who aims to help others find their way.
+    </p>
+    <p>
+      <strong>Role:</strong> Lead Compositor<br>
+      <strong>Software:</strong> After Effects
+    </p>
+  </div>
+
+  <div class="featured-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JZYJ_1wpqNQ?si=KFd-bjF4DCCSqyg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+</div>
+
+
+
 ## 2D compositing work
 
 <div class="motion-grid">
