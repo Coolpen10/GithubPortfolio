@@ -213,10 +213,21 @@
 
 
 body {
-  /* A smooth grey-to-white gradient */
-  background: linear-gradient(180deg, #f5f7fa 0%, #c3cfe2 100%);
-  
-  /* This ensures the gradient stretches the whole page and doesn't repeat */
-  min-height: 100vh;
-  background-attachment: fixed;
+  background-color: #121212; /* Almost black, but softer */
+  color: #e6e6e6; /* Light grey text (easier on eyes than pure white) */
+}
+
+/* Fix the headings to be light as well */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Make sure the text inside your project sections is readable */
+.featured-text, .main-content {
+  color: #cccccc;
+}
+
+/* Optional: Add a subtle glow to your video containers */
+.video-wrapper, .featured-video iframe {
+  box-shadow: 0 0 20px rgba(0,0,0,0.8);
 }
