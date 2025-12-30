@@ -231,3 +231,26 @@ h1, h2, h3, h4, h5, h6 {
 .video-wrapper, .featured-video iframe {
   box-shadow: 0 0 20px rgba(0,0,0,0.8);
 }
+
+/* Homepage Hero Bio Styles */
+.bio-container {
+  text-align: center; /* Centers the text */
+  max-width: 900px; /* Prevents text from stretching too wide */
+  margin: 60px auto 40px auto; /* Centers the box + adds top/bottom spacing */
+  padding: 0 20px;
+}
+
+.bio-intro {
+  font-size: 3rem; /* Very large, headline size */
+  font-weight: 800; /* Extra bold */
+  margin-bottom: 20px;
+  letter-spacing: -1px; /* Tightens letters slightly for a modern look */
+  color: #ffffff; /* Pure white */
+}
+
+.bio-body {
+  font-size: 1.5rem; /* Much larger than standard text */
+  font-weight: 300; /* Thinner, elegant weight */
+  line-height: 1.6; /* More breathing room between lines */
+  color: #d1d1d1; /* Soft grey/white */
+}
