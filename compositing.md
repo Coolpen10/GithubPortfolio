@@ -85,3 +85,36 @@
   </div>
 
 </div>
+
+## Javascript
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function changeSlide(n) {
+  showSlides(slideIndex += n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("carousel-slide");
+  
+  // If we go past the last slide, loop back to the first
+  if (n > slides.length) {slideIndex = 1}
+  
+  // If we go before the first slide, loop to the last
+  if (n < 1) {slideIndex = slides.length}
+  
+  // Hide all slides first
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+    slides[i].className = slides[i].className.replace(" active-slide", "");
+  }
+  
+  // Show the current slide
+  slides[slideIndex-1].style.display = "block";
+  slides[slideIndex-1].className += " active-slide";
+}
+</script>
+
