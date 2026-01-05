@@ -81,13 +81,6 @@
 </div>
 <hr>
 
-
-
-## 2D compositing work
-
-
-
-## Javascript
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
