@@ -3,7 +3,7 @@
   <a href="motion-graphics.html" class="nav-link">Motion Graphics</a>
   <a href="compositing.html" class="nav-link">2D Compositing</a>
   <a href="vfx.html" class="nav-link">VFX</a>
-  <a href="programming.html" class="nav-link">Unity Programming</a>
+  <a href="programming.html" class="nav-link">About Me</a>
 </nav>
 <hr>
 
@@ -28,6 +28,7 @@
   </div>
   
 </div>
+
 
 
 
