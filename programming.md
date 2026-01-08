@@ -28,7 +28,6 @@ I am also an active game developer (currently building "Rat King" in Unity 6.2),
 * **Adobe After Effects** (Expert: Expressions, Templating, Compositing)
 * **Adobe Creative Suite** (Photoshop, Illustrator, Premiere Pro, Media Encoder)
 * **Blender** (3D Modeling, Asset Creation)
-* **Cinema 4D**
 
 **Technical & Interactive**
 * **Unity 6.2** (Game Systems, UI, Lighting)
