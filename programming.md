@@ -16,7 +16,7 @@ I am a Visual Designer with a background that spans the high-energy world of ent
 I don't just create assets; I build systems. Whether it’s developing a modular template system in After Effects that saves your production team hours, or scripting complex interactions in Unity, I focus on the intersection of creativity and efficiency. I believe design is about solving problems and making complex information (like media and financial literacy or software tutorials) accessible, engaging, and clear.
 
 ### Beyond the Timeline
-When I’m not keyframing or coding, you can usually find me outdoors. Living in the **Shenandoah Valley**, I’ve developed a deep connection to the outdoors, often brainstorming and planning out ideas while on one of the many local trails.
+When I’m not keyframing or coding, you can usually find me outdoors. Living in Virginia's **Shenandoah Valley** with its Blue Ridge Mountains, I’ve developed a deep connection to the outdoors, often brainstorming and planning out ideas while on one of the many local trails.
 
 I am also an active game developer (currently building "Rat King" in Unity 6.2), which keeps my C# scripting sharp and constantly challenges me to learn new technical workflows.
 
