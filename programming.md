@@ -11,7 +11,7 @@
 
 ## Visual Designer. Motion Specialist. Systems Thinker.
 
-I am a Visual Brand Designer with a background that spans the high-energy world of entertainment and the precision of corporate tech. My career has taken me from creating blockbuster-style VFX at **Rooster Teeth** to building scalable, global brand motion systems at **LinkedIn**.
+I am a Visual Designer with a background that spans the high-energy world of entertainment and the precision of corporate tech. My career has taken me from creating blockbuster-style VFX at **Rooster Teeth** to building scalable, global brand motion systems at **LinkedIn**.
 
 I don't just create assets; I build systems. Whether it’s developing a modular template system in After Effects that saves your production team hours, or scripting complex interactions in Unity, I focus on the intersection of creativity and efficiency. I believe design is about solving problems and making complex information (like media and financial literacy or software tutorials) accessible, engaging, and clear.
 
